@@ -1,1 +1,1 @@
-web: gunicorn stackoverflow.wsgi
+web: gunicorn stackoverflow_clone.wsgi
